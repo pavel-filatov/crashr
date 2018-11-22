@@ -1,0 +1,35 @@
+---
+title: "crashR<br/>Быстрое введение в R"
+subtitle: "Часть 1. Введение в R"
+author: "Павел Филатов"
+date: "Обновлено: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      ratio: 16:9
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle
+
+# Что за R?
+
+## R - язык программирования
+
+---
+
+
+
+---
+
+class: center, middle
+
+# Введение в tidyverse
+
+---
+
+- tidyverse - экосистема пакетов для R, каждый из которых делает хорошо одну вещь.
+
